@@ -1,0 +1,2 @@
+//handling urls(uniform resource locator)
+https: protocol(how communication takse place with the server)
